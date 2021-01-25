@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithm", "GeneticAlgorithm.csproj", "{9448A069-678A-4858-B93E-31E26D015454}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9448A069-678A-4858-B93E-31E26D015454}.Debug.ActiveCfg = Debug|.NET
+		{9448A069-678A-4858-B93E-31E26D015454}.Debug.Build.0 = Debug|.NET
+		{9448A069-678A-4858-B93E-31E26D015454}.Release.ActiveCfg = Release|.NET
+		{9448A069-678A-4858-B93E-31E26D015454}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
